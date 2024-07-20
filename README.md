@@ -38,6 +38,10 @@ The course is organized into several modules, each focusing on different aspects
 - Generics.md
 - Macros.md
 
+## Module7_Cargo/
+- Introduction_to_Cargo.md
+- Managing_Dependencies.md
+- Building_and_Deploying.md
 
 ## Features of Rust
 
