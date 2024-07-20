@@ -11,12 +11,12 @@ The course is organized into several modules, each focusing on different aspects
 ## Module1_Basics/
 - Introduction_to_Rust.md
 - Setting_Up_Your_Environment.md
-- First_Program.rs
+- HelloWorld.rs
 
 ## Module2_Control_Flow/
-- Conditionals.md
-- Loops.md
-- Pattern_Matching.md
+- Conditionals.rs
+- Loops.rs
+- Pattern_Matching.rs
 
 ## Module3_Data_Types/
 - Variables_and_Data_Types.md
